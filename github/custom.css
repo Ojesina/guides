@@ -1,0 +1,33 @@
+#image-left {
+  float: left;
+  width:30%;
+  height: 30%;
+  margin:10px;
+  z-index:-10;
+}
+
+#text-right {
+  width: 60%;
+  top: 200px;
+  height: 30%;
+  text-align: justify;
+  float: right;
+  z-index:-10;
+}
+
+#text-bottom {
+  height: 70%;
+  text-align: justify;
+  clear: both;
+}
+
+#image-bottom {
+  width: 90%;
+  clear: both;
+}
+
+#image-right {
+  width: 60%;
+  float: right;
+  z-index:-10;
+}
