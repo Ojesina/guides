@@ -14,6 +14,6 @@ Making some edits as an example.
 
 ## Books
 
-- [Pro Git](https://git-scm.com/book/en/v2)
-- [R for Data Science](http://r4ds.had.co.nz)
-- [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)
+-   [Pro Git](https://git-scm.com/book/en/v2)
+-   [R for Data Science](http://r4ds.had.co.nz)
+-   [Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)
